@@ -31,3 +31,5 @@ A professional-grade, smooth, and feature-rich  vehicle camera plugin for Godot 
 
 ## 📜 License
 MIT License. Feel free to use this in any commercial or personal project.
+
+If you found this framework helpful for your Godot project, please consider starring the repo—it helps others find it too!
